@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente Estudante de Ciência da computação na Universidade Federal de Campina Grande (UFCG)<br>🌱 Atualmente Aprendendo Java e Orientação a Objetos<br>⚡ Amante da tecnologia e curioso para saber o que ela pode fazer no futuro. principalmente com as Inteligências Artificiais.
+🔭 Atualmente Estudante de Ciência da computação na Universidade Federal de Campina Grande (UFCG)<br>🌱 Atualmente Aprendendo Estrutura de dados com Java e Orientação a Objetos<br>⚡ Amante da tecnologia e curioso para saber o que ela pode fazer no futuro. principalmente com as Inteligências Artificiais.
 
 
 ## 🌐 Socials:
